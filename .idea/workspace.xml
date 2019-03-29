@@ -255,7 +255,7 @@
       <workItem from="1553478399719" duration="9475000" />
       <workItem from="1553732235439" duration="620000" />
       <workItem from="1553780076364" duration="12901000" />
-      <workItem from="1553871031093" duration="5938000" />
+      <workItem from="1553871031093" duration="6194000" />
     </task>
     <task id="LOCAL-00001" summary="laravel setup">
       <created>1553482754526</created>
@@ -296,7 +296,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28934000" />
+    <option name="totallyTimeSpent" value="29190000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,6 +309,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="638" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26097366" />
@@ -316,7 +317,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960095" weight="0.16502947" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49880287" visible="true" weight="0.16502947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -324,8 +325,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.88667196" visible="true" weight="0.27111983" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.11332801" side_tool="true" visible="true" weight="0.27111983" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.88667196" weight="0.27111983" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5011971" side_tool="true" visible="true" weight="0.16502947" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
