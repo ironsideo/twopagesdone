@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b39f6f0-f1f5-419a-af68-4148f06c3f8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,19 +17,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/Procfile">
+        <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="86">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/composer.json">
+        <entry file="file://$PROJECT_DIR$/Procfile.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+            <state>
+              <caret column="36" selection-start-column="5" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -65,6 +65,7 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/vendor/bin/Procfile" />
         <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/public/Procfile.php" />
       </list>
     </option>
   </component>
@@ -175,11 +176,6 @@
               <item name="TwoPagesPHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="TwoPagesPHP" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="TwoPagesPHP" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TwoPagesPHP" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -190,7 +186,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -207,6 +203,7 @@
       <recent name="$PROJECT_DIR$/resources/views" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/vendor/bin" />
     </key>
@@ -264,7 +261,7 @@
       <workItem from="1553871031093" duration="10592000" />
       <workItem from="1553883485118" duration="1757000" />
       <workItem from="1553885739620" duration="274000" />
-      <workItem from="1553886201464" duration="798000" />
+      <workItem from="1553886201464" duration="1934000" />
     </task>
     <task id="LOCAL-00001" summary="laravel setup">
       <created>1553482754526</created>
@@ -350,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553886286638</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Renaming: from Profile to Procfile">
+      <created>1553891275689</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1553891275689</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -359,7 +363,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36417000" />
+    <option name="totallyTimeSpent" value="37553000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,9 +376,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="638" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32801276" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32801276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -388,9 +391,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49720672" weight="0.32681018" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.87230647" visible="true" weight="0.30844793" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.12769353" side_tool="true" visible="true" weight="0.30844793" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49880287" weight="0.3280943" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.8858739" visible="true" weight="0.4950884" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.11412609" side_tool="true" visible="true" weight="0.4950884" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49720672" weight="0.3280943" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -487,14 +490,26 @@
     <entry file="file://$PROJECT_DIR$/public/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+          <caret column="8" lean-forward="true" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
+        <state relative-caret-position="86">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-623" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>
