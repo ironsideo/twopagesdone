@@ -2,6 +2,6 @@
 @section('content')
 
 
-        <h1> Hello World Welcome to my homepage</h1>
+        <h1> Hello World Welcome to my HomePage</h1>
 
 @stop

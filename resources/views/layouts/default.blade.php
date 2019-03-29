@@ -11,7 +11,10 @@
 
 <main role="main">
 
+    <div id="main" class="row">
         @yield('content')
+    </div>
+
 
     <footer class="row">
         @include('includes.footer')
