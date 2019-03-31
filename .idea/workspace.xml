@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b39f6f0-f1f5-419a-af68-4148f06c3f8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+            <state relative-caret-position="945">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
             </state>
           </provider>
         </entry>
@@ -28,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Procfile.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="36" selection-start-column="5" selection-end-column="42" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -168,7 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,6 +178,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,7 +219,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHPUnit.vendor">
+  <component name="RunManager" selected="PHP Script.TwoPagesPHP Server">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
       <method v="2" />
@@ -261,7 +260,9 @@
       <workItem from="1553871031093" duration="10592000" />
       <workItem from="1553883485118" duration="1757000" />
       <workItem from="1553885739620" duration="274000" />
-      <workItem from="1553886201464" duration="1934000" />
+      <workItem from="1553886201464" duration="2234000" />
+      <workItem from="1553990948227" duration="57000" />
+      <workItem from="1553991047109" duration="50000" />
     </task>
     <task id="LOCAL-00001" summary="laravel setup">
       <created>1553482754526</created>
@@ -354,16 +355,26 @@
       <option name="project" value="LOCAL" />
       <updated>1553891275689</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Renaming: from Profile to Procfile">
+      <created>1553892384562</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1553892384562</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="vendor - 2019.03.29 at 14h 44m 10s.xml">
       <configuration name="vendor" configurationId="PHPUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="vendor - 2019.03.30 at 20h 09m 49s.xml">
+      <configuration name="vendor" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37553000" />
+    <option name="totallyTimeSpent" value="37960000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,13 +388,13 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="638" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32801276" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33918595" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49321628" weight="0.4577603" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4924182" weight="0.4577603" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,8 +402,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49720672" weight="0.32681018" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.8858739" visible="true" weight="0.4950884" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.11412609" side_tool="true" visible="true" weight="0.4950884" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.8850758" weight="0.49315068" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50758183" side_tool="true" visible="true" weight="0.49312377" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49720672" weight="0.3280943" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -480,6 +491,19 @@
     <entry file="file://$PROJECT_DIR$/vendor/bin/psysh">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/Procfile" />
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-623" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir/tests/XdgTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -487,29 +511,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-623" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" selection-start-column="5" selection-end-column="42" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
