@@ -18,19 +18,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
+            <state relative-caret-position="154">
               <caret line="63" selection-start-line="63" selection-end-line="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Procfile.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Profile">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -61,10 +57,10 @@
         <option value="$PROJECT_DIR$/resources/views/includes/header.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/includes/head.blade.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
-        <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/vendor/bin/Procfile" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/public/Procfile.php" />
+        <option value="$PROJECT_DIR$/Procfile" />
       </list>
     </option>
   </component>
@@ -167,6 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,7 +175,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -263,6 +259,7 @@
       <workItem from="1553886201464" duration="2234000" />
       <workItem from="1553990948227" duration="57000" />
       <workItem from="1553991047109" duration="50000" />
+      <workItem from="1553991101898" duration="903000" />
     </task>
     <task id="LOCAL-00001" summary="laravel setup">
       <created>1553482754526</created>
@@ -362,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553892384562</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Renaming: from Profile to Procfile">
+      <created>1553991231055</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1553991231056</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -374,7 +378,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37960000" />
+    <option name="totallyTimeSpent" value="38863000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,13 +392,13 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="638" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33918595" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34477255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4924182" weight="0.4577603" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49082202" weight="0.4577603" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,8 +406,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49720672" weight="0.32681018" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.8850758" weight="0.49315068" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50758183" side_tool="true" visible="true" weight="0.49312377" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.88347965" visible="true" weight="0.49312377" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.11652035" side_tool="true" visible="true" weight="0.49312377" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49720672" weight="0.3280943" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -497,13 +501,6 @@
         <state relative-caret-position="-623" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir/tests/XdgTest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -513,10 +510,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Procfile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state>
+          <caret column="6" selection-end-column="42" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Profile">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
