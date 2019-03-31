@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b39f6f0-f1f5-419a-af68-4148f06c3f8c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3b39f6f0-f1f5-419a-af68-4148f06c3f8c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,6 +169,17 @@
               <item name="TwoPagesPHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="TwoPagesPHP" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TwoPagesPHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TwoPagesPHP" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TwoPagesPHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TwoPagesPHP" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -259,7 +268,7 @@
       <workItem from="1553886201464" duration="2234000" />
       <workItem from="1553990948227" duration="57000" />
       <workItem from="1553991047109" duration="50000" />
-      <workItem from="1553991101898" duration="903000" />
+      <workItem from="1553991101898" duration="1290000" />
     </task>
     <task id="LOCAL-00001" summary="laravel setup">
       <created>1553482754526</created>
@@ -366,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553991231056</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Renaming: from Profile to Procfile">
+      <created>1553992012051</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1553992012051</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -378,7 +394,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38863000" />
+    <option name="totallyTimeSpent" value="39250000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,7 +408,7 @@
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="638" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34477255" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34477255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -406,7 +422,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49720672" weight="0.32681018" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.88347965" visible="true" weight="0.49312377" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.88347965" visible="true" weight="0.49312377" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.11652035" side_tool="true" visible="true" weight="0.49312377" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49720672" weight="0.3280943" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
